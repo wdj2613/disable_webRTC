@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --check disable_webRTC.js)"
+    ]
+  }
+}
